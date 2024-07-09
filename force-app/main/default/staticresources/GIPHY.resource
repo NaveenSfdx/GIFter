@@ -1,5 +1,5 @@
 window._GIPHY = (function() {
-    var apiKey = "YOUR_GIPHY_API_KEY";
+    var apiKey = "eRUatgUfRNrszUUu5hAY5Br5TA2UQ4ZV";
     var _results = null;
 
     return { //public API
